@@ -30,7 +30,8 @@
     "cheerio": "~0.22.0",
     "optimist": "~0.6.1",
     "lodash": "~4.17.10",
-    "xregexp": "~2.0.0"
+    "xregexp": "~2.0.0",
+    "cheerio-get-css-selector": "^2.0.0"
   },
   "devDependencies": {
     "coffee-script-redux": "2.0.0-beta7",
