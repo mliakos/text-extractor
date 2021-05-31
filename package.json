@@ -1,6 +1,6 @@
 {
-  "name": "unfluff",
-  "version": "3.2.0",
+  "name": "@mliakos/text-extractor",
+  "version": "3.2.1",
   "description": "A web page content extractor",
   "homepage": "https://github.com/ageitgey/node-unfluff",
   "keywords": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ageitgey/node-unfluff"
+    "url": "git://github.com/mliakos/text-extractor"
   },
   "bugs": "https://github.com/ageitgey/node-unfluff/issues",
   "main": "lib/unfluff.js",
